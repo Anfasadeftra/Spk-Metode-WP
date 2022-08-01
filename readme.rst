@@ -1,1 +1,1 @@
- aplikasi sistem pendukung keputusan penentuan jurusan pada sekolah menegah kejuruan menggunakan metode Weighted Product (WP) dengan memberikan atau menentuakan jurusan yang dipilih berdasarkan perhitungan nilai.  Adapun 
+ aplikasi sistem pendukung keputusan penentuan jurusan pada sekolah menegah kejuruan menggunakan metode Weighted Product (WP) dengan memberikan atau menentuakan jurusan yang dipilih berdasarkan perhitungan nilai.  
